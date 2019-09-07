@@ -13,6 +13,9 @@ int main()
     else
         max = b;
     cout<<max<<" is a largest number";
+
+    cout<<"change 1";
+    //second change
     getch();
     return 0;
 }
