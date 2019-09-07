@@ -14,12 +14,14 @@ int main()
         max = b;
     cout<<max<<" is a largest number";
     max = 7;
+    
 
     cout<<"change 1";
     //second change
     //third change
     //fourth change
     //fifth change
+    //sixth change
     getch();
     return 0;
 }
