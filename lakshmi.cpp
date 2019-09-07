@@ -13,7 +13,10 @@ int main()
     else
         max = b;
     cout<<max<<" is a largest number";
+
     max = 9;
+
+     max = 5;
     
 
     cout<<"change 1";
