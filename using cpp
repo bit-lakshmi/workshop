@@ -1,1 +1,16 @@
+Running a CPP program is quite easy.
+You just need  to follow these steps.
+1. Install a Compiler on your machine
+2. Create your program.
+3. Compile yoour program and run it.
 
+There are various IDEs that provide you editor along with terminals. Some of the most common ones are:
+VSCode
+Sublime Text
+Notepad++
+JetBrains
+
+You can also use various online tools to do your work like 
+Repl.it
+CodeChef Compiler
+Hackerrank Compiler
