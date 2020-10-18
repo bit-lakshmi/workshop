@@ -5,6 +5,7 @@ using std::cout;
 using std::cin;
 int main()
 {
+    clrscr();
     int a, b,max;
     cout<<"enter two numbers: ";
     cin>>a>>b;
